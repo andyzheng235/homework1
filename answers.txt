@@ -1,0 +1,2 @@
+What is a remote repository?
+It is the version of the project that is kept on the internet. It is typically used to clone the project into a local repository for editting, and after edits are reviewed and confirmed, it can push changes onto the remote repository.
